@@ -4,7 +4,6 @@
     it("Show error: Minimum amount of the replenishment 1 UAH", () => {});
  });
 
- }
 
  it('By ID', () => {
     cy.visit("http://www.facebook.com/")
