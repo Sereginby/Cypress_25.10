@@ -41,6 +41,7 @@
 //    cy.visit('https://next.privat24.ua/')
 //    cy.get('[class^="card"]')
 // });  
+// Comment
 
 it.only('Using Get with Find and Eq', () => {
     cy.viewport(1000, 660)
